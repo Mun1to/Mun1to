@@ -33,10 +33,14 @@ users, and I share the process as it happens.
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,tauri" alt="frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=rust,python,fastapi,nodejs,cs,dotnet,sqlite,cloudflare" alt="backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,obsidian,figma,linux" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=rust,python,fastapi,nodejs,cs,dotnet,supabase,cloudflare" alt="backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,obsidian" alt="tools" />
 </p>
 
-Daily drivers: Claude Code, Antigravity and DaVinci Resolve.
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+</p>
 
 <sub><i>Change the plan but never the goal.</i></sub>
