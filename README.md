@@ -11,17 +11,32 @@
 19, from Madrid. I build desktop and web products with AI agents, mostly for Spanish-speaking
 users, and I share the process as it happens.
 
-### Building
+### Products
 
-- **[Orquio](https://orquio.com)** · SaaS for local businesses
-- **[Layco](https://github.com/Mun1to/Layco)** · local-first AI assistant for your desktop
-- **[Expoal](https://github.com/Mun1to/Expoal)** · 100% offline video downloader
-- **[Moneorq](https://github.com/Mun1to/Moneorq)** · personal finances, made simple
+- **[Orquio](https://orquio.com)** · SaaS that brings local businesses online
+- **[Layco](https://github.com/Mun1to/Layco)** · local-first AI co-worker floating on your screen
+- **[VoCript](https://github.com/Mun1to/VoCript)** · voice and system audio into text, 100% offline
+- **[vidorq](https://github.com/Mun1to/vidorq)** · AI video editor built on DaVinci Resolve Free
+- **Adequio** · my agentic dev environment: terminals, sessions and agent teams
+
+### Apps and tools
+
+- **[Expoal](https://github.com/Mun1to/Expoal)** · save any video to your disk, no third-party sites
+- **[Moneorq](https://github.com/Mun1to/Moneorq)** · your money, made clear
+- **[froede](https://github.com/Mun1to/froede)** · click your localhost page, edit the real source
+- **[TaskbarGroupsFluent](https://github.com/Mun1to/TaskbarGroupsFluent)** · taskbar shortcut groups, WPF and .NET 8
+- **[hotkeyconfig](https://github.com/Mun1to/hotkeyconfig)** · program ch57x macropads and bind anything
+- **[Klipse](https://github.com/Mun1to/Klipse)** · lock the mouse cursor to one monitor
+- **[LengHist](https://github.com/Mun1to/LengHist)** · interactive guide to 100 programming languages
 
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,tauri,rust,python,cloudflare" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,tauri" alt="frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=rust,python,fastapi,nodejs,cs,dotnet,sqlite,cloudflare" alt="backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,obsidian,figma,linux" alt="tools" />
 </p>
+
+Daily drivers: Claude Code, Antigravity and DaVinci Resolve.
 
 <sub><i>Change the plan but never the goal.</i></sub>
