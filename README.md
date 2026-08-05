@@ -17,7 +17,7 @@ users, and I share the process as it happens.
 - **[Layco](https://github.com/Mun1to/Layco)** · local-first AI co-worker floating on your screen
 - **[VoCript](https://github.com/Mun1to/VoCript)** · voice and system audio into text, 100% offline
 - **[vidorq](https://github.com/Mun1to/vidorq)** · AI video editor built on DaVinci Resolve Free
-- **[Adeorq](https://github.com/Mun1to/Adeorq)** · my agentic dev environment: terminals, sessions and agent teams
+- **[Adeorq](https://github.com/Mun1to/Adeorq-releases)** · my agentic dev environment: terminals, sessions and agent teams
 
 ### Apps and tools
 
