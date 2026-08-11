@@ -11,21 +11,18 @@
 19, from Madrid. I build desktop and web products with AI agents, mostly for Spanish-speaking
 users, and I share the process as it happens.
 
-### Products
+### All my shi:
 
 - **[Orquio](https://orquio.com)** · SaaS that brings local businesses online
 - **[VoCript](https://github.com/Mun1to/VoCript)** · voice and system audio into text, 100% offline
 - **[Adeorq](https://github.com/Mun1to/Adeorq-releases)** · my agentic dev environment: terminals, sessions and agent teams
-
-### Apps and tools
-
+- **[VibeSet](https://vibeset.dev/)** · Guide to 100 programming languages, live code examples and interactive UI components, resources and more!
 - **[Expoal](https://github.com/Mun1to/Expoal)** · save any video to your disk, no third-party sites
 - **[Moneorq](https://github.com/Mun1to/Moneorq)** · your money, made clear
 - **[froede](https://github.com/Mun1to/froede)** · click your localhost page, edit the real source
 - **[TaskbarGroupsFluent](https://github.com/Mun1to/TaskbarGroupsFluent)** · taskbar shortcut groups, WPF and .NET 8
 - **[hotkeyconfig](https://github.com/Mun1to/hotkeyconfig)** · program ch57x macropads and bind anything
 - **[Klipse](https://github.com/Mun1to/Klipse)** · lock the mouse cursor to one monitor
-- **[LengHist](https://github.com/Mun1to/LengHist)** · interactive guide to 100 programming languages
 
 ### Stack
 
