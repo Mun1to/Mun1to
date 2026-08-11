@@ -22,7 +22,8 @@ users, and I share the process as it happens.
 - **[froede](https://github.com/Mun1to/froede)** · click your localhost page, edit the real source
 - **[TaskbarGroupsFluent](https://github.com/Mun1to/TaskbarGroupsFluent)** · taskbar shortcut groups, WPF and .NET 8
 - **[hotkeyconfig](https://github.com/Mun1to/hotkeyconfig)** · program ch57x macropads and bind anything
-- **[Klipse](https://github.com/Mun1to/Klipse)** · lock the mouse cursor to one monitor
+
+And more...............................................................................................................................................
 
 ### Stack
 
