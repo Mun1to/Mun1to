@@ -28,9 +28,7 @@ And more........................................................................
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,tauri" alt="frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=rust,python,fastapi,nodejs,cs,dotnet,supabase,cloudflare" alt="backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,obsidian" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,rust,tauri,python,supabase,cloudflare" alt="TypeScript, React, Tailwind CSS, Vite, Rust, Tauri, Python, Supabase, Cloudflare" />
 </p>
 
 <p>
