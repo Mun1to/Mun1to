@@ -27,16 +27,31 @@ And more........................................................................
 
 ### Stack
 
+**Languages**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,rust,tauri,python" alt="TypeScript, React, Tailwind CSS, Vite, Rust, Tauri, Python" />
+  <img src="https://skillicons.dev/icons?i=ts,rust,python" alt="TypeScript, Rust, Python" />
 </p>
+
+**Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,tauri" alt="React, Tailwind CSS, Vite, Tauri" />
+</p>
+
+**Backend and hosting**
+
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+**AI and tools**
 
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <a href="https://github.com/Mun1to/Adeorq-releases"><img src="https://img.shields.io/badge/Adeorq%20ADE-101624?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzQ4YzJmZiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzJmOWRmMyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxwYXRoIGZpbGw9InVybCgjYSkiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTIzNiAxMTJMNzg4IDExMkwxMDE2IDc1Nkw5NDQgODQ4TDgwIDg0OEw4IDc1NlpNNTEyIDI0MEw3MTIgNzMwUTUxMiA1NzIgMzEyIDczMFoiLz48L3N2Zz4%3D" alt="Adeorq ADE" /></a>
 </p>
 
