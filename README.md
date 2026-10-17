@@ -46,23 +46,19 @@ And more........................................................................
 19 años, de Madrid. Construyo productos de escritorio y web con agentes de IA, sobre todo
 para el mundo hispanohablante, y enseño el proceso mientras ocurre.
 
-**Productos**
+### Todas mis movidas:
 
-- **[Orquio](https://orquio.com)** · SaaS para digitalizar el comercio local
-- **[Layco](https://github.com/Mun1to/Layco)** · copiloto de IA local que flota en tu pantalla
+- **[Orquio](https://orquio.com)** · SaaS que lleva los negocios locales a internet
 - **[VoCript](https://github.com/Mun1to/VoCript)** · tu voz y el audio del PC a texto, 100% sin internet
-- **[vidorq](https://github.com/Mun1to/vidorq)** · editor de vídeo con IA sobre DaVinci Resolve Free
-- **Adequio** · mi entorno de desarrollo con agentes: terminales, sesiones y equipos
-
-**Apps y herramientas**
-
+- **[Adeorq](https://github.com/Mun1to/Adeorq-releases)** · mi entorno de desarrollo con agentes: terminales, sesiones y equipos de agentes
+- **[VibeSet](https://vibeset.dev/)** · ¡Guía de 100 lenguajes de programación, ejemplos de código en vivo y componentes de interfaz interactivos, recursos y más!
 - **[Expoal](https://github.com/Mun1to/Expoal)** · guarda cualquier vídeo en tu disco, sin webs de terceros
 - **[Moneorq](https://github.com/Mun1to/Moneorq)** · tu dinero, claro de un vistazo
 - **[froede](https://github.com/Mun1to/froede)** · haz clic en tu web de localhost y edita el código real
-- **[TaskbarGroupsFluent](https://github.com/Mun1to/TaskbarGroupsFluent)** · grupos de accesos en la barra de tareas
+- **[TaskbarGroupsFluent](https://github.com/Mun1to/TaskbarGroupsFluent)** · grupos de accesos directos en la barra de tareas, WPF y .NET 8
 - **[hotkeyconfig](https://github.com/Mun1to/hotkeyconfig)** · programa macropads ch57x y asigna lo que quieras
-- **[Klipse](https://github.com/Mun1to/Klipse)** · fija el cursor del ratón a un solo monitor
-- **[LengHist](https://github.com/Mun1to/LengHist)** · guía interactiva de 100 lenguajes de programación
+
+Y más...............................................................................................................................................
 
 </details>
 
