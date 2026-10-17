@@ -30,19 +30,20 @@ And more........................................................................
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,rust,python" alt="TypeScript, Rust, Python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,cs,html,css,powershell" alt="TypeScript, JavaScript, Python, Rust, C#, HTML, CSS, PowerShell" />
 </p>
 
 **Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,tauri" alt="React, Tailwind CSS, Vite, Tauri" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,tauri,astro,fastapi,dotnet" alt="React, Tailwind CSS, Vite, Tauri, Astro, FastAPI, .NET" />
 </p>
 
 **Backend and hosting**
 
 <p>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
